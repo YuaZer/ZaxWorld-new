@@ -1,0 +1,5 @@
+manage-command-message-reduce: '&7成功减少&e{time}&7秒给&e{user}&7在&e{world}'
+manage-command-message-add: '&7成功增&e{time}&7秒给&e{user}&7在&e{world}'
+manage-command-message-set: '&7成功设置&e{time}&7秒给&e{user}&7在&e{world}'
+reload-message: '&7[ZaxWorld] &a重载成功'
+manage-command-message-check: '&e{user}&7在&e{world}&7还剩&e{time}&7秒'
